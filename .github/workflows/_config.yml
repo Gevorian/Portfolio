@@ -4,7 +4,10 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Gevorian Portfolio
+theme: jekyll-theme-minimal
+title: Gevorian's homepage
+description: Bookmark this to keep an eye on my project updates!
 
 on:
   # Runs on pushes targeting the default branch
